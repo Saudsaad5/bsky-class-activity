@@ -1,7 +1,7 @@
 import TrendingTopic from './TrendingTopic.jsx'
 import { Search } from 'lucide-react'
 
-const RightSidebar = ({topics}) => {
+const RightSidebar = () => {
     return (
         <div className="w-80 p-4">
             <div className="border border-gray-300 rounded-lg p-2 mb-6 flex items-center">
