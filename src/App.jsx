@@ -5,6 +5,7 @@ import RightSidebar from './components/RightSidebar'
 import Feed from './components/Feed'
 import NavTabs from './components/NavTabs'
 import './App.css'
+const language = "English"
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('discover');

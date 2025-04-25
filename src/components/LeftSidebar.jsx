@@ -1,4 +1,4 @@
-const LeftSidebar = () => {
+const LeftSidebar = ({language}) => {
     return (
         <div className="w-64 p-4 border-r border-gray-200">
             <div className="w-16 h-16 border-2 border-gray-400 mb-4 flex items-center justify-center">
